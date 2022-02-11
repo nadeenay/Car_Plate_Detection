@@ -2,8 +2,8 @@
 The idea of the project is to recognize the plate number of a car & identify the numbers/characters in it.
 
 ## Libraries needed to be installed
-**Noted:** in this project we have worked on jupyter notebook interface .
-To install it you have to follow this link [Click] (https://docs.jupyter.org/en/latest/install/notebook-classic.html)
+**Note:** in this project we have worked on jupyter notebook interface .
+To install it you have to follow this link [Click](https://docs.jupyter.org/en/latest/install/notebook-classic.html)
 
 1- install open cv by run the following command 
 ```
