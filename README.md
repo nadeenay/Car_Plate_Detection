@@ -21,6 +21,7 @@ pip install imutils
 ![Second Step](https://user-images.githubusercontent.com/70846138/153585077-ac8674f0-50cf-4534-879e-26acfe1c08af.png)
 #### 2-Extract The Plate Image.
 ![Thired Step](https://user-images.githubusercontent.com/70846138/153585087-dd4b8713-2e32-4d11-be7a-83b46183a8d1.png)
+#### :clipboard: Final results
 #### 3-Extracting The Plate’s Numbers/Characters.
 ![Fourth Step](https://user-images.githubusercontent.com/70846138/153585093-409b10f0-22db-4f2f-9318-997bc2c23bd9.png)
 
