@@ -9,7 +9,7 @@ To install it you have to follow this link [Click](https://docs.jupyter.org/en/l
 ```
 pip install opencv-python
 ```
-2- install imutils 
+2- install imutils by run the following command 
 ```
 pip install imutils
 ```
